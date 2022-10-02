@@ -19,4 +19,4 @@ git clone https://github.com/VERSION01X/V-META
 
 cd V-META
 
-python V-META.PY
+python V-META.py
